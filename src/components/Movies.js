@@ -1,12 +1,8 @@
-import React from 'react';
-import { movies } from '../data';
+import React from "react";
+import { movies } from "../data";
 
 const Movies = () => {
-  return (
-    <div>
-        {/*{code here}*/}
-    </div>
-  );
+  return <div>THIS IS MOVIE COMPONENT</div>;
 };
 
 export default Movies;
